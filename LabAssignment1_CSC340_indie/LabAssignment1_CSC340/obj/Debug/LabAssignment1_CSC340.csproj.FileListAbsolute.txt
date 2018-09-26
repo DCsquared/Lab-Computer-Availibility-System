@@ -1,0 +1,157 @@
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.pdb
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csprojResolveAssemblyReference.cache
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Properties.Resources.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csproj.GenerateResource.Cache
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Team.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\MySql.Data.dll
+G:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+G:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+G:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.pdb
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\MySql.Data.dll
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csprojResolveAssemblyReference.cache
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1.resources
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Tester.resources
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Team.resources
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Properties.Resources.resources
+F:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csproj.GenerateResource.Cache
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.pdb
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\MySql.Data.dll
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csprojResolveAssemblyReference.cache
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1.resources
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Tester.resources
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Team.resources
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Properties.Resources.resources
+C:\Users\ekustudent\Downloads\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csproj.GenerateResource.Cache
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.pdb
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\MySql.Data.dll
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csprojResolveAssemblyReference.cache
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1.resources
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Tester.resources
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Team.resources
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Properties.Resources.resources
+W:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csproj.GenerateResource.Cache
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csprojResolveAssemblyReference.cache
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1.resources
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Tester.resources
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Team.resources
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Properties.Resources.resources
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csproj.GenerateResource.Cache
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe
+G:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.pdb
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.pdb
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\bin\Debug\MySql.Data.dll
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csprojResolveAssemblyReference.cache
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Team.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Properties.Resources.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csproj.GenerateResource.Cache
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab444.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab444User.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab445User.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab449.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab449User3.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab452.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab452User.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab455User.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab329.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab329User.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab330.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab330User.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab445.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab455.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1User.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430User.resources
+F:\CSC 340\LabAssignment1_CSC340(new)\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.UserTesterOption.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.pdb
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\bin\Debug\MySql.Data.dll
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csprojResolveAssemblyReference.cache
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1User.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab329.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab329User.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab330.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab330User.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1Team.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430User.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab444.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab444User.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab445.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab445User.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab449.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab449User3.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab452.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab452User.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab455.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab455User.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Properties.Resources.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.UserTesterOption.resources
+C:\Users\david_cannon5\Downloads\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csproj.GenerateResource.Cache
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Form1User.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab329.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab329User.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab330.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab330User.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430User.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab444.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab444User.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab445.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab445User.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab449.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab449User3.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab452.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab452User.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab455.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab455User.resources
+W:\CSC 340\LabAssignment1_CSC340\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.UserTesterOption.resources
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.pdb
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\bin\Debug\MySql.Data.dll
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csprojResolveAssemblyReference.cache
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430.resources
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430User.resources
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Properties.Resources.resources
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.UserTesterOption.resources
+W:\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csproj.GenerateResource.Cache
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe.config
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.exe
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.pdb
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.exe
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\bin\Debug\LabAssignment1_CSC340.pdb
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csprojResolveAssemblyReference.cache
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430.resources
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Lab430User.resources
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.Properties.Resources.resources
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.UserTesterOption.resources
+C:\Users\dmcan\Desktop\New folder\CSC 340\LabAssignment1_CSC340_indie\LabAssignment1_CSC340\obj\Debug\LabAssignment1_CSC340.csproj.GenerateResource.Cache
